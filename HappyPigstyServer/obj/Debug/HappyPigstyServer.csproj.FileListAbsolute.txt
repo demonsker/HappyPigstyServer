@@ -1,0 +1,13 @@
+c:\users\eucliwoodx\documents\visual studio 2015\Projects\HappyPigstyServer\HappyPigstyServer\bin\Debug\HappyPigstyServer.exe.config
+c:\users\eucliwoodx\documents\visual studio 2015\Projects\HappyPigstyServer\HappyPigstyServer\bin\Debug\HappyPigstyServer.exe
+c:\users\eucliwoodx\documents\visual studio 2015\Projects\HappyPigstyServer\HappyPigstyServer\bin\Debug\HappyPigstyServer.pdb
+c:\users\eucliwoodx\documents\visual studio 2015\Projects\HappyPigstyServer\HappyPigstyServer\bin\Debug\M2Mqtt.Net.dll
+c:\users\eucliwoodx\documents\visual studio 2015\Projects\HappyPigstyServer\HappyPigstyServer\bin\Debug\Microgear.dll
+c:\users\eucliwoodx\documents\visual studio 2015\Projects\HappyPigstyServer\HappyPigstyServer\bin\Debug\Newtonsoft.Json.dll
+c:\users\eucliwoodx\documents\visual studio 2015\Projects\HappyPigstyServer\HappyPigstyServer\bin\Debug\RestSharp.dll
+c:\users\eucliwoodx\documents\visual studio 2015\Projects\HappyPigstyServer\HappyPigstyServer\bin\Debug\M2Mqtt.Net.pdb
+c:\users\eucliwoodx\documents\visual studio 2015\Projects\HappyPigstyServer\HappyPigstyServer\bin\Debug\Newtonsoft.Json.xml
+c:\users\eucliwoodx\documents\visual studio 2015\Projects\HappyPigstyServer\HappyPigstyServer\bin\Debug\RestSharp.xml
+c:\users\eucliwoodx\documents\visual studio 2015\Projects\HappyPigstyServer\HappyPigstyServer\obj\Debug\HappyPigstyServer.csprojResolveAssemblyReference.cache
+c:\users\eucliwoodx\documents\visual studio 2015\Projects\HappyPigstyServer\HappyPigstyServer\obj\Debug\HappyPigstyServer.exe
+c:\users\eucliwoodx\documents\visual studio 2015\Projects\HappyPigstyServer\HappyPigstyServer\obj\Debug\HappyPigstyServer.pdb
