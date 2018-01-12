@@ -10,8 +10,8 @@ namespace HappyPigstyServer
             NETPIE netPie = new NETPIE("HappyPigsty", 
                                        "zw0HnvDcL9VY4qA", 
                                        "BDiOw4Twn98leHH6ATHDkV7fD");
-            netPie.getMicrogear().onMessage += Receiving;
             netPie.initialize();
+            netPie.getMicrogear().onMessage += Receiving;
             netPie.connect("Server", "/topic");
         }
 
