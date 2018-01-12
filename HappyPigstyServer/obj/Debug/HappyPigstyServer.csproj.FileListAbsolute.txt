@@ -11,3 +11,5 @@ c:\users\eucliwoodx\documents\visual studio 2015\Projects\HappyPigstyServer\Happ
 c:\users\eucliwoodx\documents\visual studio 2015\Projects\HappyPigstyServer\HappyPigstyServer\obj\Debug\HappyPigstyServer.csprojResolveAssemblyReference.cache
 c:\users\eucliwoodx\documents\visual studio 2015\Projects\HappyPigstyServer\HappyPigstyServer\obj\Debug\HappyPigstyServer.exe
 c:\users\eucliwoodx\documents\visual studio 2015\Projects\HappyPigstyServer\HappyPigstyServer\obj\Debug\HappyPigstyServer.pdb
+c:\users\eucliwoodx\documents\visual studio 2015\Projects\HappyPigstyServer\HappyPigstyServer\bin\Debug\MySql.Data.dll
+c:\users\eucliwoodx\documents\visual studio 2015\Projects\HappyPigstyServer\HappyPigstyServer\bin\Debug\MySql.Data.xml
