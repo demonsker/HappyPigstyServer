@@ -2,7 +2,7 @@
 using io.netpie.microgear;
 using System.Threading;
 
-namespace Utilities
+namespace HappyPigstyServer.Utilities
 {
     class NETPIE
     {
@@ -33,12 +33,11 @@ namespace Utilities
             return microgear;
         }
 
-        public void connect(String Alias, String Subscribe)
+        public void connect(String Alias)
         {
             Console.WriteLine("Connecting to NETPIE....");
             microgear.Connect(AppID, Key, Secret);
             microgear.SetAlias(Alias);
-            microgear.Subscribe(Subscribe);
         }
 
         public static void Connect()
